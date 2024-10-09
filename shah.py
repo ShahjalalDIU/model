@@ -25,7 +25,7 @@ def create_connection():
         conn = mysql.connector.connect(
             host='sql12.freesqldatabase.com',
             user='sql12733953',
-            password='YrZ89mNLUW',
+            password='YES',
             database='sql12733953'
         )
         if conn.is_connected():
